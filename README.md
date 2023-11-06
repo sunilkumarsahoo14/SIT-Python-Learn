@@ -1,2 +1,2 @@
 # SIT-Python-Classes
-Python Class Day By Day Code Save For Records Only
+Python Class Day By Day Code Save For Records Only. Practice Classes Updates.
